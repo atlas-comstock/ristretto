@@ -1,4 +1,4 @@
-module github.com/dgraph-io/ristretto
+module github.com/atlas-comstock/ristretto
 
 go 1.12
 
